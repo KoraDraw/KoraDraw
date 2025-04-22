@@ -6,7 +6,10 @@
 ## About me
 - 🌱 I’m currently learning React and Vue
 - ⚡ Fun fact: I am a digital illustrator and I love watching anime. I also have a sphinx cat.
-
+## Contact with me
+- 📧 Email: [korinachernysheva@mail.ru](mailto:korinachernysheva@mail.ru)
+- 📱 Telegram: [@Kora_draw](https://t.me/Kora_draw)
+- 💬 ВКонтакте: [Korina Chernysheva](https://vk.com/huyvam126)
 
 ## Technologies:
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
