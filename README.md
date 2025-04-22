@@ -5,9 +5,7 @@
 
 ## About me
 - 🌱 I’m currently learning React and Vue
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am a digital illustrator and I love watching anime. I also have a sphinx cat.
 
 
 ## Technologies:
