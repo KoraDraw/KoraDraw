@@ -1,5 +1,6 @@
 ## Hi, I'm Korina 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+frontend+developer)](https://git.io/typing-svg)
+(E:\общая папка\ЗАГРУЗКИ\ОНЛАЙН КУРСЫ\курс персонаж\МОДУЛЬ 1)
 <!--
 **KoraDraw/KoraDraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
